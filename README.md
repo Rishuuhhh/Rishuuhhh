@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# Hi, I'm Rakshit Sharma
+## Hi, I'm Rakshit Sharma
 
 BTech Computer Science Student
 
