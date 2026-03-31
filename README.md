@@ -23,6 +23,8 @@ Git • GitHub
 Learning, experimenting, and figuring things out  
 
 ---
+### 🎨 Fun fact
+I love drawing and expressing ideas through art 🎭
 
 ### 📫 Connect
 - GitHub: https://github.com/Rishuuhhh
