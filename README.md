@@ -1,32 +1,33 @@
-# Hi there 👋
+# Hey 👋 I'm Rakshit
 
-## Hi, I'm Rakshit Sharma
-
-BTech Computer Science Student
-
-Passionate about Artificial Intelligence, Machine Learning, and building real-world systems
-
-Continuously learning and improving through hands-on projects
+💻 CS undergrad who loves building things  
+🤖 Exploring AI, ML & cool tech  
+🚀 Learning something new every day  
 
 ---
 
-## Technical Skills
-
-- Programming Languages: C, C++, Java, Python
-- Data Structures and Algorithms
-- Machine Learning and Deep Learning
-- Version Control: Git and GitHub
+### ⚡ What I'm up to
+- Building small but meaningful projects  
+- Improving problem-solving skills  
+- Exploring real-world AI applications  
 
 ---
 
-## Projects
+### 🛠️ Tech I use
+C • C++ • Java • Python  
+Git • GitHub  
 
-**COVID-19 Chest X-ray Detection**  
-Developed a deep learning model using DenseNet121 achieving approximately 90% accuracy
+---
 
-**RAG Document Q&A Bot**  
-Built using LangChain, Hugging Face, and FAISS for intelligent document querying
+### 🌱 Currently
+Learning, experimenting, and figuring things out  
 
-**Adaptive File Zipper**  
-Implemented optimized compression using an entropy-based method selection approach
+---
 
+### 📫 Connect
+- GitHub: https://github.com/Rishuuhhh
+- Linkedin: https://www.linkedin.com/in/rakshit-sharma-a21b552ab/
+
+---
+
+✨ *Just trying to get better every day*
